@@ -46,6 +46,6 @@ hard.addActionListener(new ActionListener() {
         obj.setFocusable(false);
         obj.setResizable(false);
         obj.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        obj.setVisible(true);
+        obj.setVisible(true);;
     }
 }
