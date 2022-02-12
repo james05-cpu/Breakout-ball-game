@@ -27,6 +27,7 @@ public class MapGenerator {
                 g.setColor(Color.BLACK);
                 g.drawRect(j*brickwidth+80,i*brickheight+50,brickwidth,brickheight);
                 }
+               
             }
         }
     }
